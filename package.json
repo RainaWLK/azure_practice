@@ -1,0 +1,24 @@
+{
+  "name": "azure_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RainaWLK/azure_practice.git"
+  },
+  "author": "RainaWLK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainaWLK/azure_practice/issues"
+  },
+  "homepage": "https://github.com/RainaWLK/azure_practice#readme",
+  "dependencies": {
+    "@azure/service-bus": "^1.0.1",
+    "dotenv": "^8.0.0"
+  }
+}
